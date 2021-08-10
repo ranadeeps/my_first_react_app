@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "description": "",
+  "homepage":"https://github.com/ranadeeps/my_first_react_app/",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
